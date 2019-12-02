@@ -1,6 +1,6 @@
 # Pharmaceuticals-Analysis-Python
 
-The objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
+Analyzed the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
 
 - Created a scatter plot that shows how the tumor volume changes over time for each treatment.
